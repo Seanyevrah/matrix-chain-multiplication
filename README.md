@@ -29,16 +29,11 @@ The project includes a graphical user interface (GUI) built with **Java Swing** 
 The following table summarizes the theoretical and observed efficiency of each implemented solution:
 
 | Algorithm | Time Complexity | Space Complexity | Recommendation |
-| --- | --- | --- | --- |
-| **Dynamic Programming** |  |  | <br>**Best for large datasets** 
+| :--- | :--- | :--- | :--- |
+| **Dynamic Programming** | $O(n^2)$ to $O(n^3)$ | $O(n^2)$ | Best for large datasets |
+| **Divide and Conquer** | $O(n \log n)$ | $O(\log n)$ | Practical for small chains |
+| **Backtracking** | $O(2^n)$ or $O(n!)$ | $O(n)$ | Useful as a conceptual tool |
 
-|
-| **Divide and Conquer** |  |  | Practical for small chains 
-
-|
-| **Backtracking** |  |  | Useful as a conceptual tool 
-
-|
 
 ### Key Findings
 
