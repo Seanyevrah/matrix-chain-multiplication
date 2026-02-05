@@ -31,14 +31,11 @@ The following table summarizes the theoretical and observed efficiency of each i
 | Algorithm | Time Complexity | Space Complexity | Recommendation |
 | --- | --- | --- | --- |
 | **Dynamic Programming** |  |  | <br>**Best for large datasets** 
-
- |
+|
 | **Divide and Conquer** |  |  | Practical for small chains 
-
- |
+|
 | **Backtracking** |  |  | Useful as a conceptual tool 
-
- |
+|
 
 ### Key Findings
 
